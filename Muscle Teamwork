@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <script src ="script.js" defer></script>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Learnaboutthebodyanditsparts.com</title>
+
+</head>
+</head>
+
+
+<body>
+
+    <link rel="stylesheet" href="style.css">
+
+<h1>
+    Learnaboutthebodyanditsparts.com
+</h1>
+	<div class="tab">
+		<button class="tablinks" onclick="openCity(event, 'Home')">Home</button>
+		<button class="tablinks" onclick="openCity(event, 'Muscle Teamwork')">Muscle Teamwork</button>
+		<button class="tablinks" onclick="openCity(event, 'Body Importance')">Body Importance</button>
+		<button class="tablinks" onclick="openCity(event, 'Body Health')">Body Health</button>
+		<button class="tablinks" onclick="openCity(event, 'What Viruses can affect specific body parts and how')">Viruses and how they affect the body</button>
+		<button class="tablinks" onclick="openCity(event, 'Glossary')">Glossary</button>
+	  </div>
+
+	  <div id="Home" class="tabcontent">
+	
+	 <p>
+		I hope that our website helped you, and thank you for visiting our website. Also please give me feed back if there is something that i should change.
+	</p>
+	<p>©Author: Brendan Zhou</p>
+
+	<a href="https://mail.google.com/mail/"target="_blank">BrendanZhou21@gmail.com</a>
+</p>
+	  </div>
+
+	  <div id="Muscle Teamwork" class="tabcontent">
+		<h3>Muscle Teamwork</h3>
+		<p><p> By contracting, muscles pull on the bone and let the body move.
+			To move the arm around, the biceps and triceps have to work together as a team to move the arm around. Whenever you want to bend your elbow the bicep contracts and at the same time the triceps relax.
+			To Move your hands/fingers, muscles in the forearms usually start the movement. Extensor tendons which are meant for stretching the hand run through the back of the hand to the fingertips, and the flexor tendons run through the back of the palms to the fingers.
+			To Straighten the Legs, your quadriceps and femoris muscles help straighten the leg a lot by contracting.
+			To Bend the Legs, the flexor muscles in the legs go to work and bend the leg.
+			To move the foot/toes, The Tibilias anterior allows the foot to move upward and the Tibilias peroneal controls the movement on the outside of the ankle, and if you want to take a step or move your toes the Extensors get to work and raises the toes, and the flexors help stabilize the toes.
+			To move the Neck, Neck muscles like the Sternocleidomastoid work together with tendons and ligaments to move the neck and support the weight of the head and everything in it.
+			To move the Nose, the nasalis muscle and other muscles contract themselves allowing the nose to move.</p>
+		   
+		   <marquee>
+		   
+		   <img src="Muscles-arm.jpg" alt="Arm Anatomy" width="370" height="400">
+		   
+		   <img src="leg muscles.jpeg" alt="Leg Anatomy" width="350" height="400">
+		   
+		   <img src="Nose Anatomy.jpeg" alt="Nose Anatomy" width="400" height="400">
+		   
+		   <img src="Hand Anatomy.jpeg" alt="Hand Anatomy" width="450" height="400">
+		   
+		   </marquee></p>
+	  </div>
+
+	  <div id="Body Importance" class="tabcontent">
+		<h3>Body Importance</h3>
+		<p><p>
+			Your Body and all its parts are extremly important. A couple of reasons why your body is important is that, they can help you eat, they help you play, they can help you walk, take out the trash, type, they can possibly help teach students if some sort of scientist studys you and finds something new, and most importantly they can help you live by helping you breathe and many many more.
+			Also your body parts are extremely important becasue they can help you exercise which will keep you healthy which can let you live longer and let you do more things.
+			Think about it what do you do when you take out the trash? I'm guessing you use your arms legs muscles and more. This applys with probably everything a human could physically do.
+			So take care of your body.
+		</p>
+	<marquee>  
+	
+		<img src="playing ball.jpeg" alt="People Playing With a Ball" width="500" height="400" style="top: 50% left 100%">    
+	
+		<img src="Typing.jpeg" alt="Stick Fiugre Typing" width="401" height="400">
+	
+	</marquee></p>
+	  </div>
+
+	  <div id="Body Health" class="tabcontent">
+		<h3>Body Health</h3>
+		<p><p>First off I should talk about your immune system, if you have a strong healthy immune system a cut or a cold won’t be a big deal, but if not a , it could possibly cost your life, for an example if your immune system is weak and you get ill you might not be able to move your limbs or even breath smoothly because your body can't fight it off and the virus will affect you. Now I should talk about how you can keep your immune system healthy. One way to keep your immune system and is to eat fruits and vitamins. You should eat fruits and vitamins because your body needs nutrition and without it, you’re in big trouble.
+			Another way to keep healthy is to spend at least 30 minutes outside running, jumping, swimming, or any other exercises because you need exercise because it keeps you healthy. Also we humans need a lot of sleep, children often need 8 or more hours a day and adults need about 7 or more hours. And if you can't get that every day your immune system is going to start getting weak, and thats not all. Your body will also start to get weak if you dont do these things.</p>
+			<marquee>
+			<img src="banana.jpeg" alt="Banana" width="400" height="300">
+			<img src="stayhealthy.jpeg" alt="stay healthy" width= 300 height = 300>
+			<img src="stick figure sleeping.jpeg" alt="Stick Figure Sleeping" width=400 height=300>
+			<img src="Healthy Man.jpeg" alt="Fruits that Make a Face" width=300 height=300>
+			<img src="Blue Orange.jpeg" alt="Blue Oranges" width="320" height="300">
+			
+			</marquee></p>
+	  </div>
+
+	  <div id="What Viruses can affect specific body parts and how" class="tabcontent">
+
+		<h3>Viruses and how they affect the body</h3>
+		<p><p>The flu, The flu can mess around with your nerves and affect your entire body. 
+			Influenza viruses, Influenza viruses can affect your arms and legs by giving them huge amounts of pain.
+			 Herpetic whitlow, Herpetic whitlow is a virus that affects your fingers by letting loose a painful infection occurring near the finger or around the fingernail. 
+			If you want to prevent getting a virus you must Wash your hands, Stay home if you’re sick, wear a mask, use antibiotics smartly, keep your home clean, a flu vaccine (if recommended by a doctor), and eat healthily.</p>
+			<marquee>
+			<img src="covid.jpeg" alt="Covid-19 Bactiera" width="460" height="300">
+			<img src="Medical-Face-Mask.jpeg" alt="Medical Face Mask" width="300" height="300">
+			<img src="Antibiotics.jpeg" alt="Antibiotics" width="320" height="300">
+			</marquee></p>
+	  </div>
+
+	  <div id="Glossary" class="tabcontent">
+		<h3>Glossary</h3>
+		<p><p>The flu, The flu can mess around with your nerves and affect your entire body. 
+			Influenza viruses, Influenza viruses can affect your arms and legs by giving them huge amounts of pain.
+			 Herpetic whitlow, Herpetic whitlow is a virus that affects your fingers by letting loose a painful infection occurring near the finger or around the fingernail. 
+			If you want to prevent getting a virus you must Wash your hands, Stay home if you’re sick, wear a mask, use antibiotics smartly, keep your home clean, a flu vaccine (if recommended by a doctor), and eat healthily.</p>
+		</p>
+	  </div>
+</body>
+
+<footer>
+
+<p>
+    ©Author: Brendan Zhou
+</p>
+
+<a href="https://mail.google.com/mail/"target="_blank">BrendanZhou21@gmail.com</a>
+
+</footer>
+
+</html>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
