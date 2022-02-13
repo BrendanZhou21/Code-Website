@@ -1,0 +1,87 @@
+footer{
+  background-color: rgba(123, 123, 123, 0.461);
+padding: 15px;
+margin: 5px;
+text-align:center
+}
+
+body{
+text-align: center;
+margin: 0;
+padding: 0;
+background-image: linear-gradient(69.50deg, #d67ddef5 17.66%, #EA52F8 5.66%, #0066FF 61.48%, rgba(82, 47, 210, 0.934) 15.2%);
+background-repeat: no-repeat;
+color:paleturquoise;
+}
+
+html {
+  height:108%;
+}
+
+body a {
+  margin-left: 4px;
+  margin-right: 4px;
+  color:paleturquoise;
+  }
+  
+
+
+h1 {
+  color:paleturquoise;
+}
+
+.Jpeg {
+
+  margin-left: 9px;
+  margin-right: 9px;
+}
+
+.jpg{
+
+  margin-right: 9px;
+  margin-left: 9px;
+}
+
+.tab {
+  overflow: hidden;
+  
+  background-color: rgb(107, 28, 235);
+}
+
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+.tab button:hover {
+  background-color: rgb(112, 103, 241);
+}
+
+
+.tab button.active {
+  background-color: rgb(109, 79, 243);
+}
+
+
+.tabcontent {
+  display: none;
+  padding: 6px 11px;
+  border-top: none;
+}
+
+.tabcontent {
+  animation: fadeEffect 1s; 
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+  
+
